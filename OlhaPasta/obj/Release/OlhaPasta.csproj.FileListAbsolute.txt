@@ -1,0 +1,9 @@
+C:\Users\Felipe\projects\OlhaPasta\OlhaPasta\bin\Release\OlhaPasta.exe.config
+C:\Users\Felipe\projects\OlhaPasta\OlhaPasta\bin\Release\OlhaPasta.exe
+C:\Users\Felipe\projects\OlhaPasta\OlhaPasta\bin\Release\OlhaPasta.pdb
+C:\Users\Felipe\projects\OlhaPasta\OlhaPasta\obj\Release\OlhaPasta.OlhaPastaForm.resources
+C:\Users\Felipe\projects\OlhaPasta\OlhaPasta\obj\Release\OlhaPasta.Properties.Resources.resources
+C:\Users\Felipe\projects\OlhaPasta\OlhaPasta\obj\Release\OlhaPasta.csproj.GenerateResource.cache
+C:\Users\Felipe\projects\OlhaPasta\OlhaPasta\obj\Release\OlhaPasta.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\projects\OlhaPasta\OlhaPasta\obj\Release\OlhaPasta.exe
+C:\Users\Felipe\projects\OlhaPasta\OlhaPasta\obj\Release\OlhaPasta.pdb
